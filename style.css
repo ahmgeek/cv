@@ -1,0 +1,58 @@
+/* CSS files add styling rules to your content */
+
+
+body {
+  font-family: 'Montserrat';
+  font-size: smaller;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: -webkit-xxx-large;
+}
+
+header {
+    padding-top: 50px;
+}
+
+.title {
+  display: block;
+  line-height: 1px;
+}
+
+.education--bachelor{
+  font-weight: 500;
+}
+
+.text-small {
+  font-size: small;
+  font-weight: 500;
+}
+
+.job-sumarry {
+  margin-top: 4px;
+  font-size: smaller;
+  font-weight: 500;
+}
+
+.sumarry {
+  margin-bottom: -16px;
+}
+
+ul {
+  list-style: none;
+}
+
+ul > li {
+  margin-bottom: -6px;
+}
+ul li:before {
+  content: "–";
+  position: absolute;
+  /*change margin to move dash around*/
+  margin-left: -1em;
+}
+
+.o-experience {
+  margin-top: 38px;
+}
