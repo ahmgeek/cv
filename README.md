@@ -1,37 +1,29 @@
-Welcome to Glitch
+Ahmad's CV
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+I don't know how to properly write a **CV** on [docs.new](http://docs.new) or any word processor basically.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+So I decided to roll it out with HTML ans CSS. I used [SPECTRE.CSS](https://picturepan2.github.io/spectre/) as a layout framework,
+and I am so happy with the outcome, hence am sharing it with you, so you can customize it for yours if you wish.
 
-Find out more [about Glitch](https://glitch.com/about).
+PS
+=================
+I used inline `css`, I know, I am really sorry...
+
+I also didn't have proper convention for the `css` rules, if you feel sad, don't.. 😘
 
 
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
+Made on [Glitch](https://glitch.com/) with lots of :heart: \ ゜o゜)ノ
 -------------------
 
-\ ゜o゜)ノ
+
+<!-- View Source Button -->
+<a href="https://glitch.com/edit/#!/six-petroleum">
+  <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fview-source%402x.png?1513093958802" alt="view source" height="33">
+</a>
+
+
+<!-- Remix Button -->
+<a href="https://glitch.com/edit/#!/remix/six-petroleum">
+  <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix%402x.png?1513093958726" alt="remix this" height="33">
+</a>
